@@ -1,0 +1,67 @@
+/* Reset */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Body */
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+}
+
+/* Card */
+
+.card_white {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 3em;
+    max-width: min-content;
+    min-width: min-content;
+    padding: 12px 10px;
+    border-radius: 16px;
+    background-color: hsl(0, 0%, 100%);
+    text-align: center;
+}
+
+/* QR code */
+
+img {
+    border-radius: 18px;
+    padding: 6px;
+}
+
+/* Headings */
+
+h2 {
+    width: 300px;
+    margin: 24px 0;
+    font-weight: 600;
+    color: hsl(218, 44%, 22%);
+}
+
+/* Paragraphs */
+
+p {
+    width: 250px;
+    margin: 20px 0;
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
+
+/* Attribution */
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
