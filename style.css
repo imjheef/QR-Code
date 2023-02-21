@@ -41,7 +41,7 @@ img {
 
 h2 {
     width: 300px;
-    margin: 24px 0;
+    margin: 18px 0;
     font-weight: 600;
     color: hsl(218, 44%, 22%);
 }
@@ -50,7 +50,7 @@ h2 {
 
 p {
     width: 250px;
-    margin: 20px 0;
+    margin: 10px 0;
     font-size: 15px;
     color: hsl(220, 15%, 55%);
 }
