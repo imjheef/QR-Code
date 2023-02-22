@@ -24,7 +24,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin: 3rem;
+    margin: 2rem;
     padding: 0.5rem;
     border-radius: 1rem ;
     background-color: hsl(0, 0%, 100%);
@@ -36,7 +36,6 @@ body {
 img {
     border-radius: 1rem;
     padding: .5rem;
-    max-width: 100%;
 }
 
 /* Headings */
